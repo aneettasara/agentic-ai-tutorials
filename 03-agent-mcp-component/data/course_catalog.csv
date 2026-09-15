@@ -1,0 +1,26 @@
+course_code,title,department,credits,instructor,seats_total,seats_taken,prerequisites,semester
+CS101,Introduction to Computer Science,Computer Science,4,Michael Wooldridge,120,114,NONE,Odd
+CS201,Algorithms and Complexity,Computer Science,4,Elias Koutsoupias,90,76,CS101,Even
+CS210,Artificial Intelligence,Computer Science,4,Giuseppe De Giacomo,80,68,CS201,Odd
+CS220,Machine Learning,Computer Science,4,Yarin Gal,70,61,CS201;MA201,Even
+CS230,Cybersecurity,Computer Science,3,Sadie Creese,75,59,CS201,Odd
+CS430,Agentic AI Systems,Computer Science,3,Karthik V,60,43,CS101;CS210;CS220,Even
+MA101,Algebra,Mathematics,4,Jason D. Lotay,140,127,NONE,Odd
+MA111,Analysis,Mathematics,4,Christopher Beem,135,119,NONE,Even
+MA201,Probability and Statistics,Mathematics,4,Ursula Martin,110,92,MA101,Odd
+MA210,Differential Equations,Mathematics,4,Jason D. Lotay,95,71,MA111,Even
+MA220,Deep Learning,Mathematics,3,Christopher Beem,70,48,MA201,Odd
+PH101,Classical Mechanics and Special Relativity,Physics,4,Joseph Conlon,150,136,MA101,Odd
+PH111,"Electromagnetism, Circuit Theory and Optics",Physics,4,Daniela Bortoletto,145,121,MA101,Even
+PH201,Quantum Physics,Physics,4,Simon Hooker,120,103,PH101;PH111,Odd
+PH220,Thermal Physics,Physics,3,Suzanne Aigrain,110,84,PH101,Even
+PH301,Astrophysics,Physics,3,Pedro Ferreira,80,63,PH201,Odd
+CH101,General Chemistry,Chemistry,4,Matthew Langton,130,118,NONE,Odd
+CH201,Organic Chemistry,Chemistry,4,Dermot O'Hare,120,101,CH101,Even
+CH211,Inorganic Chemistry,Chemistry,4,Matthew Langton,115,89,CH101,Odd
+CH301,Physical Chemistry,Chemistry,4,Dermot O'Hare,95,74,CH101;MA201,Even
+EN101,Mathematics for Engineering,Engineering Science,4,Alessandro Abate,160,145,NONE,Odd
+EN111,Electrical and Information Engineering,Engineering Science,4,Niki Trigoni,150,129,EN101,Even
+EN201,Structures and Mechanics,Engineering Science,4,Andrew Markham,140,116,EN101,Odd
+EN220,Energy Systems,Engineering Science,3,Ana Namburete,120,91,EN201,Even
+EM101,Introductory Economics,Economics and Management,4,Paul Klemperer,100,82,NONE,Odd

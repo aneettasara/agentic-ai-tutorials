@@ -1,0 +1,5 @@
+mcp
+requests
+pandas
+jupyter
+ipykernel

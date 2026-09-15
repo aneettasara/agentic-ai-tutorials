@@ -1,0 +1,10 @@
+drug_a,drug_b,severity,effect,advice
+Metformin,Insulin Glargine,Moderate,Increased risk of low blood sugar when taken together,Monitor blood glucose closely and adjust doses
+Atorvastatin,Amlodipine,Moderate,Amlodipine raises atorvastatin levels in the blood,Limit atorvastatin to 20 mg daily with amlodipine
+Metamizole,Paracetamol,Moderate,Both are analgesics; combined use adds no benefit and raises toxicity risk,Avoid routine combination
+Nimesulide,Paracetamol,Major,Additive liver toxicity risk from two hepatotoxic analgesics,Do not co-prescribe
+Amoxicillin,Levothyroxine,Minor,Slight reduction in thyroid hormone absorption,Separate doses by four hours
+Omeprazole,Levothyroxine,Moderate,Reduced stomach acid lowers levothyroxine absorption,Separate doses and recheck thyroid levels
+Salbutamol,Insulin Glargine,Minor,Salbutamol can transiently raise blood glucose,Monitor glucose during frequent inhaler use
+Nimesulide,Metformin,Moderate,NSAIDs may impair kidney function and raise metformin levels,Avoid in patients with reduced kidney function
+Atorvastatin,Omeprazole,Minor,No clinically significant interaction expected,No action needed

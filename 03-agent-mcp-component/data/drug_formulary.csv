@@ -1,0 +1,21 @@
+drug_name,drug_class,used_for,price_inr_per_strip,pack_size,india_status,us_status,uk_status,regulatory_note
+Paracetamol,Analgesic,Fever and mild pain,25,10 tablets,Approved,Approved,Approved,Widely available over the counter in all three markets.
+Metformin,Antidiabetic,Type 2 diabetes,32,15 tablets,Approved,Approved,Approved,First-line therapy for type 2 diabetes worldwide.
+Atorvastatin,Statin,High cholesterol,88,10 tablets,Approved,Approved,Approved,Commonly prescribed lipid-lowering agent.
+Amoxicillin,Antibiotic,Bacterial infections,72,10 capsules,Approved,Approved,Approved,Prescription-only antibiotic in all three markets.
+Amlodipine,Antihypertensive,High blood pressure,42,10 tablets,Approved,Approved,Approved,Calcium channel blocker for hypertension.
+Omeprazole,Proton pump inhibitor,Acidity and reflux,95,10 capsules,Approved,Approved,Approved,Available OTC in some strengths.
+Salbutamol,Bronchodilator,Asthma relief,120,1 inhaler,Approved,Approved,Approved,Known as albuterol in the United States.
+Insulin Glargine,Antidiabetic,Type 1 and 2 diabetes,850,1 pen,Approved,Approved,Approved,Long-acting insulin analogue; cold chain required.
+Levothyroxine,Thyroid hormone,Hypothyroidism,38,10 tablets,Approved,Approved,Approved,Narrow therapeutic index; brand consistency matters.
+Nimesulide,NSAID,Pain and inflammation,55,10 tablets,Restricted,Banned,Banned,CDSCO bans formulations for children below 12 years. Never approved by US FDA; withdrawn in EU markets over liver toxicity.
+Rosiglitazone,Antidiabetic,Type 2 diabetes,0,Not marketed,Banned,Restricted,Restricted,Banned in India for human use by CDSCO. Heavily restricted elsewhere after cardiovascular safety findings.
+Phenylpropanolamine,Decongestant,Cold and cough,0,Not marketed,Banned,Banned,Banned,Banned in India for human use. Linked to increased risk of haemorrhagic stroke.
+Cisapride,Prokinetic,Gastric motility,0,Not marketed,Banned,Banned,Banned,Banned in India for human use. Withdrawn internationally over cardiac arrhythmia risk.
+Sibutramine,Anti-obesity,Weight loss,0,Not marketed,Banned,Banned,Banned,Banned in India for human use. Withdrawn globally over cardiovascular events.
+Gatifloxacin,Antibiotic,Bacterial infections,0,Not marketed,Restricted,Restricted,Restricted,CDSCO bans systemic use in India by any route. Ophthalmic eye drops remain permitted.
+Tegaserod,Prokinetic,Irritable bowel syndrome,0,Not marketed,Banned,Restricted,Banned,Banned in India for human use. Reintroduced in the US only for a narrow patient group.
+Phenformin,Antidiabetic,Type 2 diabetes,0,Not marketed,Banned,Banned,Banned,Banned over lactic acidosis risk. Replaced clinically by metformin.
+Rimonabant,Anti-obesity,Weight loss,0,Not marketed,Banned,Banned,Banned,Banned in India for human use. Never approved in the US; withdrawn in the EU over psychiatric effects.
+Metamizole,Analgesic,Severe pain,45,10 tablets,Restricted,Banned,Banned,Also called analgin or dipyrone. Banned in the US and UK over agranulocytosis risk; still marketed in several other countries.
+Rofecoxib,NSAID,Arthritis pain,0,Not marketed,Banned,Banned,Banned,Withdrawn worldwide in 2004 after cardiovascular safety findings.
